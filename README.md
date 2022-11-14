@@ -1,3 +1,11 @@
+# useEffect presentation - 2022.10.14
+
+This project is a collection of useEffect examples related to the following presentation:
+
+[useEffect-demo_2022-10-14](https://docs.google.com/presentation/d/1wAhmNAiRIc9KQ6lmfta-1cnNwO9geAnelj4cdIek0rw/edit#slide=id.p)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
